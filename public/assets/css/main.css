@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Montserrat-Arabic-Regular';
+    src: url('Montserrat-Arabic-Regular.ttf') format('truetype');
+  }
+
+  body{
+    font-family: 'Montserrat-Arabic-Regular' !important;
+
+  }
